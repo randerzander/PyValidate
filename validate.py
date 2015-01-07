@@ -2,7 +2,7 @@
 
 import sys, json, urllib2
 
-host = 'n1.dev:50111'
+host = 'localhost:50111'
 user = 'dev'
 database = 'default'
 schema = None
